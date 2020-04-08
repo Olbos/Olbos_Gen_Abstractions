@@ -1,0 +1,3 @@
+This is a collection of Gen~ abstraction you can use on Max MSP.
+Add them in a folder inside a path supervised by Max;
+Then you can create an instance in a max patch writing gen~ + filename into a new object.
